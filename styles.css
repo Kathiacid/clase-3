@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.nombre {
+    font-family: "Bebas Neue", sans-serif;
+    text-align: center;
+}
+
+.nombre h1{
+    color: palevioletred
+}
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border: 5px solid pink;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20%;
+    box-shadow: 0 0 10px rgba(28,123,54,0.1)
+}
+
+body {
+    background-color: #faeeee;
+    margin: 5%;
+    line-height: 1.6;;
+}
+main{
+    max-width: 800px;
+    margin: auto;
+    padding:20px;
+    box-shadow: 0 0 10px rgba(28,123,54,0.1)
+}
+header {
+    text-align: center;
+    padding:20px;
+    background-image:url(./img/milk-melting-on-light-pink-background-vector.jpg) ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
