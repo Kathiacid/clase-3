@@ -12,7 +12,18 @@
 }
 
 .nombre h1{
-    color: palevioletred
+    color: palevioletred;
+    font-size: 2em;
+    margin-top: 10px;
+    text-shadow: 0 0 10px rgba(28,123,54,0.1);
+}
+
+.nombre h2{
+    font-size: 1.2em;
+    margin-top: 10px;
+    text-shadow: 0 0 10px rgba(28,123,54,0.1);
+    
+
 }
 img {
     width: 200px;
@@ -22,13 +33,13 @@ img {
     padding: 20px;
     margin: 20px;
     border-radius: 20%;
-    box-shadow: 0 0 10px rgba(28,123,54,0.1)
+    box-shadow: 0 0 10px rgba(28,123,54,0.1);
 }
 
 body {
     background-color: #faeeee;
     margin: 5%;
-    line-height: 1.6;;
+    line-height: 1.6;
 }
 main{
     max-width: 800px;
