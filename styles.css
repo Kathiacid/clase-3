@@ -22,6 +22,10 @@
     font-size: 1.2em;
     margin-top: 10px;
     text-shadow: 0 0 10px rgba(28,123,54,0.1);
+    display:inline-block;
+    vertical-align: middle;
+    margin-left:1%
+
     
 
 }
