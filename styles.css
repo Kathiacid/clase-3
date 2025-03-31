@@ -59,3 +59,62 @@ header {
     background-repeat: no-repeat;
     background-position: center;
 }
+
+.perfil_profesional,.Habilidades,.idiomas,.informacion_contacto,.Experiencia_laboral,.formacion{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.perfil_profesional p{
+    color: rgb(65, 64, 64);
+
+}
+
+.Habilidades ul{
+    color: rgb(65, 64, 64);
+    list-style-type: none;
+}
+.idiomas ul{
+    color: rgb(65, 64, 64);
+    list-style-type: none;
+}
+.informacion_contacto p{
+    color: rgb(65, 64, 64);
+}
+.Experiencia_laboral p{
+    color: rgb(65, 64, 64);  
+}
+.formacion p{
+    color: rgb(65, 64, 64); 
+}
+
+.perfil_profesional{
+    background-color: antiquewhite;
+    margin-top:10px;
+    border-radius:3% ;
+}
+.Habilidades{
+    background-color: antiquewhite;
+    margin-top: 10px;
+    border-radius:3% ;
+}
+.idiomas{
+    background-color: antiquewhite;
+    margin-top: 10px;
+    border-radius:3% ;
+}
+.informacion_contacto{
+    background-color: antiquewhite;
+    margin-top: 10px;
+    border-radius:3% ;    
+}
+.Experiencia_laboral{
+    background-color: antiquewhite;
+    margin-top: 10px;
+    border-radius:3% ;   
+}
+.formacion{
+    background-color: antiquewhite;
+    margin-top: 10px;
+    border-radius:3% ;       
+}
+
+
